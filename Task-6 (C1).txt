@@ -1,0 +1,5 @@
+Task-6 files are quite big for uploading on github.
+So, I have uploaded all the files that can be used to run the android app on my google drive.
+Download the whole folder to run it on android studioes.
+Here is the link for the same-
+https://drive.google.com/drive/folders/1TlbSn_vCWD-S-pmmVbo8vEs0gv9-hE76?usp=sharing
