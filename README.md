@@ -26,7 +26,7 @@ Overall in checkpoint 2 basics of machine learning and neural network were estab
 Task 6(C1):
 
 Making Android App for Gender+Age Dectection: Here we learn basics of android devlopment and learn that we need not to start making whole app from start,
-rather we can use any other similar app and make changes in that in order to rech the required outcome.
+rather we can use any other similar app and make changes in that in order to reach the required outcome.
 
 Task 7(C2):
 
