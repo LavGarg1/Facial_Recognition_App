@@ -1,8 +1,12 @@
 # Checkpoint 1 (11th April 2021)
 Task 1(A1):
+
 Pandas exercise
+
 task 2(A2):
+
 Matplot exercise
+
 
 Overall in checkpoint 1 we saw uses of different library functions to fetch imformation about Data
 
